@@ -11,7 +11,7 @@ def quienGana(player, ai):
 
 # Entry Point
 def Game():
-    #
+    # solución
     #
     
     #
